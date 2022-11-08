@@ -1,0 +1,24 @@
+.items-center {
+  text-align: center;
+}
+
+.items-left {
+  text-align: left;
+}
+
+.items-right {
+  text-align: right;
+}
+
+.pagecontainer {
+  width: 600px;
+  padding: 30px;
+  margin: auto;
+}
+
+.searchbar {
+  width: 900px;
+  padding: 10px;
+  margin: auto;
+}
+
