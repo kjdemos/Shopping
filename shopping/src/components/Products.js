@@ -37,7 +37,7 @@ function Products() {
                     <p class="items-center lead">{product.title}</p>
                     <h6>{`£${product.price}`}</h6>
                     <div class="button">
-                    <button type="button" class="btn btn-info btn-sm">Add to basket</button>
+                    {/* <button type="button" class="btn btn-info btn-sm">Add to basket</button> */}
                     <button type="button" class="btn btn-outline-secondary btn-sm">Quick view</button>
                     </div>
                     {/* <h6>{`Description: ${product.description}`}</h6> */}
