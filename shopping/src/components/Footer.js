@@ -1,13 +1,8 @@
-import React from "react";
-import '../App.css'
-
 function Footer() {
 
     return (
-        <div className="footer">
-            <p>Shopping App 2022&copy;</p>
-            
-        
+        <div class=" footer navbar-light bg-info">
+            <h6>Nile Shopping 2022 &copy;</h6>
         </div>
     );
 }
