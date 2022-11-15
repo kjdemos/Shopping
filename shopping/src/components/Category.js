@@ -9,7 +9,7 @@ function Category(){
             <button type="button" class="btn btn-info">electronics</button>        
             <button type="button" class="btn btn-info">jewelery</button>  
         </nav>
-        <br/>
+    <br/>
     </>
     );
 }
