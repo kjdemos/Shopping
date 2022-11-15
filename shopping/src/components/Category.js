@@ -1,8 +1,4 @@
 function Category(){
-    
-    function womensclothes(){
-
-    }
 
     return (
     <>
@@ -17,6 +13,5 @@ function Category(){
     </>
     );
 }
-// onClick={}
 
 export default Category;

@@ -31,9 +31,9 @@ function Products() {
             )}
             {data.map((product) => (
                 <div key={product.id} className= "">
-                <div class="items-center"> <img src={product.image} alt="#" /> </div>
                 <br />
                 <div className="card-description card">
+                <div class="items-center"> <img src={product.image} alt="#" /> </div>
                     <p class="items-center lead">{product.title}</p>
                     <h6>{`£${product.price}`}</h6>
                     <div class="button">
